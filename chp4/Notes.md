@@ -16,4 +16,4 @@
 
 - Data types like uint8 etc are one with known sizes. That means they can be stored on the stack
 
-- String Literals are inherently different from String type
+- String Literals are inherently different from String type 
